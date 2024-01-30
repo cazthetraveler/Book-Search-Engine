@@ -17,3 +17,5 @@ export const QUERY_GET_ME = gql`
     }
   }
 `;
+
+// add mutations
